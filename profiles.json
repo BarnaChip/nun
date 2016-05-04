@@ -5,19 +5,19 @@
 	{
 		"firstName": "Jose",
 		"lastName": "Blanco",
-		"jobtitle": "Project Mananger",
+		"jobTitle": "Project Mananger",
 		"empID": "pskt01"
 	},
 	{
 		"firstName": "Ivan",
 		"lastName": "Riego",
-		"jobtitle": "Project Manager",
+		"jobTitle": "Project Manager",
 		"empID": "pskt02"
 	},
 	{
 		"firstName": "Carlos",
 		"lastName": "DeLorenzo",
-		"job": "Project Mananger",
+		"jobTitle": "Project Mananger",
 		"empID": "pskt03"
 	}
 ]
